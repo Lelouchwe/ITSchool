@@ -1,0 +1,44 @@
+//@font-face {
+//  font-family: 'SF Display';
+//  src: local('SF Bold'), local('SF-PRO-DISPLAY-BOLD'),
+//  url('/public/fonts/SF-PRO-DISPLAY-BOLD.woff2') format('woff2');
+//  font-weight: 600;
+//  font-style: normal;
+//  font-display: swap;
+//}
+
+@font-face {
+  font-family: 'SF';
+  src: local('SF'), local('SF-PRO-TEXT-REGULAR'),
+  url('/fonts/SF-PRO-TEXT-REGULAR.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF';
+  src: local('SF'), local('SF-PRO-TEXT-MEDIUM'),
+  url('/fonts/SF-PRO-TEXT-MEDIUM.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF';
+  src: local('SF'), local('SF-PRO-TEXT-SEMIBOLD'),
+  url('/fonts/SF-PRO-TEXT-SEMIBOLD.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF';
+  src: local('SF'), local('SF-PRO-TEXT-BOLD'),
+  url('/fonts/SF-PRO-TEXT-BOLD.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
